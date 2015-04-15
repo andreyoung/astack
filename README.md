@@ -2,11 +2,13 @@
 This is a demonstration of radio interferometric imaging techniques based on A-stacking.
 
 ## Demos
-Three demo scripts are supplied, along with an example input data set. The input data contains array layout and antenna radiation characteristics of the LOFAR LBA station at Onsala, Sweden.
+Three demo scripts are supplied:
 
-1. Forward calculation `demo_astack_forward_calculation.m`
-2. Visibility Domain Source Subtraction `demo_astack_vdss_clean.m`
-3. Image Domain Source Subtraction `demo_astack_idss_clean.m`
+1. [Forward calculation `demo_astack_forward_calculation.m`](https://github.com/andreyoung/astack#forward-calculation-sky-to-visibility)
+2. [Visibility Domain Source Subtraction `demo_astack_vdss_clean.m`](https://github.com/andreyoung/astack#visibility-domain-source-subtraction-vdss-clean)
+3. [Image Domain Source Subtraction `demo_astack_idss_clean.m`](https://github.com/andreyoung/astack#image-domain-source-subtraction-idss-clean)
+
+along with an example input dataset which provides array layout and radiation pattern data for a toy model of the LOFAR LBA station at Onsala, Sweden.
 
 ### Forward calculation (sky-to-visibility)
 This script calculates visibilities from a random generated sky model based on the given input data, and produces a plot which shows the accuracy of the calculation as a function of the number of terms used to describe the direction- and baseline-dependent radiation patterns of the array.
