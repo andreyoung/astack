@@ -34,4 +34,4 @@ Although not fully supported, the code should also run in Matlab; the example in
 
 
 ## References
-[[1] A. Young, S. J. Wijnholds, T. D. Carozzi, R. Maaskant, M. V. Ivashina and D. B. Davidson, "Efficient correction for both direction-dependent and baseline-dependent effects in interferometric imaging: An A-stacking framework," *Astronomy & Astrophysics*, forthcoming, 2015.](http://dx.doi.org/10.1051/0004-6361/201425492) in *Astronomy and Astrophysics*.
+[[1] A. Young, S. J. Wijnholds, T. D. Carozzi, R. Maaskant, M. V. Ivashina and D. B. Davidson, "Efficient correction for both direction-dependent and baseline-dependent effects in interferometric imaging: An A-stacking framework," *Astronomy & Astrophysics*, forthcoming, 2015](http://dx.doi.org/10.1051/0004-6361/201425492).
